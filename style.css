@@ -173,7 +173,7 @@ canvas {
         width: 100vw;
         bottom: 0;
         border-radius: 16px 16px 0 0;
-        min-height: 7vh;
+        min-height: 9vh;
         justify-content: space-between;
         padding: 0.7rem 1.6rem;
     }
