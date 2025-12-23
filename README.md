@@ -103,6 +103,8 @@ Abstract-Pad is not a game. It’s not a productivity tool. It’s a quiet digit
 If even one person feels calmer after using it —
 the project has already succeeded.
 
+Radhe Radhe! 🌸
+
 # Created by
 
 **Yisha**
